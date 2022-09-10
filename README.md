@@ -1,4 +1,6 @@
 ### Hi there 👋
+Gachon Univ. Software major
+My importance are 3D modeling, Game programming
 
 <!--
 **MuoN0x0/MuoN0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
