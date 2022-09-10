@@ -1,5 +1,5 @@
 ### Hi there 👋
-Gachon Univ. Software major
+Gachon Univ. Software major,
 My importance are 3D modeling, Game programming
 
 <!--
